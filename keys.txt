@@ -1,2 +1,2 @@
 # Format: device_id | user_key | duration
-# Example: K-XXXX-XXXX | KEY-12345 | 30d
+# Example: K-0BFF-054A | ttak | 30d
