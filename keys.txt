@@ -1,0 +1,2 @@
+# Format: device_id | user_key | duration
+# Example: K-XXXX-XXXX | KEY-12345 | 30d
