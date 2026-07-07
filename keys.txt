@@ -4,3 +4,4 @@ K-0BFF-054A | ttak | 30d
 K-U0A3-69XX | ttak1 | 30d
 STR-E5194F61 | ttak3 | 4d
 STR-1A3C0E31 | free1 | 3d
+K-U0A2-53XX | free3 | 5d
